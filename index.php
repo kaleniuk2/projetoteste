@@ -1,5 +1,5 @@
 <?php 
 
-echo "vtnc";
+echo "vtnc fdp do karai";
 
 ?>
